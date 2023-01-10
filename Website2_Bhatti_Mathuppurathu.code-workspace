@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../FH-TW/Webtechnologien/Website2_Bhatti_Mathuppurathu"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../website_Martin"
+		},
+		{
+			"path": "../../../Downloads/Test_Einheit5_mg"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Website2_Bhatti_Mathuppurathu"
+	}
+}
